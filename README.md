@@ -228,4 +228,4 @@ This is the full free version of BitDefender Antivirus, with all features and up
 Download BitDefender Antivirus today and protect your PC with the utmost confidence!
 
 ---
-**Last updated:** 2026-09-25 19:39:03 UTC
+**Last updated:** 2026-09-25 22:54:10 UTC
